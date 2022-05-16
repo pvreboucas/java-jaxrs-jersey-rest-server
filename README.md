@@ -32,3 +32,5 @@
 
 * [Aula 14 - Serialização com JAXB](https://github.com/pvreboucas/java-jaxrs-jersey-rest-server/tree/aula-14)
 
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/java-jaxws-soap-server)
+
